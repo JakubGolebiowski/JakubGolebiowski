@@ -6,7 +6,7 @@
 - Bachelor of science in IT - thesis: navigation of a car in 2D Simulation with use of RL in non-discrete environment.
 - 💞️ Working as MLOps/Programmer/ML Researcher (C++/Python).
 - 📫 How to reach me \<name\>\<surname\>\<official\>@\<google main mail box\>\<.com\>
-- 🎒 Computer Science Engineer
+- 🎒 Senior Software Engineer for AI
 - :car: Was co-authoring Automony for RAPTORS PŁ Martian Rover and UAV object detection at https://raptors.p.lodz.pl/
 
 # 💻 Tech Stack:
